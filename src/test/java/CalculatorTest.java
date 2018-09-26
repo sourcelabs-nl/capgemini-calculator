@@ -27,4 +27,6 @@ public class CalculatorTest {
         assertEquals(3, calculator.subtract(6,3));
     }
 
+    //TODO add a test for the maxValue() method!
+
 }
