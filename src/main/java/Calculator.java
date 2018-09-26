@@ -27,4 +27,8 @@ public class Calculator {
 
         return max;
     }
+
+    //TODO implement percentage calculation and test
+
+    //TODO implement modulo operation and test
 }
